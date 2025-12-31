@@ -55,12 +55,13 @@ Our experiments show that the Hybrid approach drastically reduces **False Negati
 1.  **Upload an Image:** Upload a fundus camera image (retina scan).
 2.  **Processing:** The system splits the image into RGB and Grayscale channels.
 3.  **Prediction:** The model outputs a probability distribution across the 5 severity levels (0-4).
+4.  [https://huggingface.co/spaces/yusuf-tiryaki/cliffordnet](https://huggingface.co/spaces/yusuf-tiryaki/cliffordnet)
 
 ## 🚀 Installation & Local Run
 
 ```bash
 # Clone the repository
-git clone [https://huggingface.co/spaces/YOUR_USERNAME/RetinaMNIST-Hybrid-Clifford](https://huggingface.co/spaces/YOUR_USERNAME/RetinaMNIST-Hybrid-Clifford)
+git clone [https://huggingface.co/spaces/yusuf-tiryaki/cliffordnet](https://huggingface.co/spaces/yusuf-tiryaki/cliffordnet)
 
 # Install dependencies
 pip install -r requirements.txt
