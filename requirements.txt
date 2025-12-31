@@ -1,0 +1,5 @@
+torch
+torchvision
+medmnist
+escnn
+numpy<2.0.0
